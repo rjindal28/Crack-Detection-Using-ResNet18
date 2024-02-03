@@ -22,9 +22,6 @@ Employing data augmentation techniques during the training phase to artificially
 Evaluation Metrics:
 The project employs standard evaluation metrics such as precision, recall, and F1 score to quantitatively assess the model's performance. This ensures transparency and reliability in measuring the crack detection system's accuracy.
 
-User-Friendly Interface:
-A user-friendly interface is designed for easy integration and interaction. The system allows users to input images or video feeds and receive real-time feedback on detected cracks, providing a practical solution for infrastructure maintenance and monitoring.
-
 Deployment Options:
 The trained model can be deployed on various platforms, including edge devices, allowing for real-time crack detection in different environments. This flexibility makes the project suitable for a wide range of applications.
 
